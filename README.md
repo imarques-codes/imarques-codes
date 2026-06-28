@@ -3,9 +3,7 @@
 ## Sobre mim
 
 Sou graduando em Engenharia de Software, com foco em Análise de dados, Ciência de dados, Banco de dados, Engenharia de dados e Cloud computing.
-
 Atualmente estou em transição de carreira para a área de Dados e Tecnologia, unindo minha experiência prática em operações agrícolas, melhoria de processos, análise operacional e tomada de decisão com estudos e projetos voltados para dados, automação, inteligência artificial e computação em nuvem.
-
 Tenho interesse em desenvolver soluções que transformem dados em informações estratégicas para apoiar decisões, otimizar processos e gerar valor para o negócio.
 
 ---
@@ -24,7 +22,7 @@ Previsão de conclusão: 2028
 - Fundamentos de Inteligência Artificial — Oracle
 - Fundamentos de Cloud Computing — Oracle
 - Fundamentos de Dados — Oracle
-- AWS Cloud Practitioner — em andamento
+- AWS Cloud Practitioner - AWS
 - Escola da Nuvem — Formação AWS
 - Databricks Fundamentals
 - Estudos complementares em Python, SQL, Banco de Dados, Power BI, Machine Learning e Cloud
