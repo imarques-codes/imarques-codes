@@ -10,7 +10,7 @@ Também desenvolvo conhecimentos em **ETL, pipelines de dados, bancos de dados, 
 
 ---
 
-## 🛠️ Stack principal
+##  Stack principal
 
 ### Análise de Dados
 - **SQL**
@@ -51,9 +51,9 @@ Também desenvolvo conhecimentos em **ETL, pipelines de dados, bancos de dados, 
 
 ---
 
-## 📊 Projetos em destaque
+##  Projetos em destaque
 
-### 🚜 Agro Leads Orchestartor
+###  Agro Leads Orchestartor
 Projeto de dados voltado à orquestração de contatos comerciais em larga escala, aplicando regras de negócio, priorização de leads e organização do fluxo de atendimento.
 
 **Tecnologias:** Python • SQL • SQLite • Pandas • Jupyter Notebook • Parquet
@@ -62,7 +62,7 @@ Projeto de dados voltado à orquestração de contatos comerciais em larga escal
 
 ---
 
-### 🛒 Análise de Vendas E-commerce — SQL Server
+###  Análise de Vendas E-commerce — SQL Server
 Projeto de banco de dados e análise de vendas utilizando dados de e-commerce, contemplando criação e estruturação do banco, ingestão, tratamento e desenvolvimento de consultas analíticas.
 
 **Tecnologias:** SQL • SQL Server • Modelagem de Dados • ETL
@@ -71,7 +71,7 @@ Projeto de banco de dados e análise de vendas utilizando dados de e-commerce, c
 
 ---
 
-### 🔄 Pipeline Modular de Dados
+###  Pipeline Modular de Dados
 Pipeline desenvolvido para ingestão, tratamento e carga de dados com arquitetura modular e reutilizável.
 
 **Tecnologias:** Python • Pandas • PostgreSQL • SQL • ETL
@@ -80,7 +80,7 @@ Pipeline desenvolvido para ingestão, tratamento e carga de dados com arquitetur
 
 ---
 
-### 🌦️ MonitorClima
+###  MonitorClima
 Projeto para coleta e processamento de informações climáticas utilizando integração com API, tratamento e armazenamento dos dados.
 
 **Tecnologias:** Python • API • Banco de Dados • Pandas
@@ -89,7 +89,7 @@ Projeto para coleta e processamento de informações climáticas utilizando inte
 
 ---
 
-### ☁️ Arquitetura AWS — AWS RDS
+###  Arquitetura AWS — AWS RDS
 Projeto de arquitetura em nuvem desenvolvido durante formação AWS, aplicando conceitos de banco de dados, segurança, disponibilidade e serviços de cloud.
 
 **Tecnologias:** AWS • RDS • EC2 • S3 • VPC • IAM
@@ -98,7 +98,7 @@ Projeto de arquitetura em nuvem desenvolvido durante formação AWS, aplicando c
 
 ---
 
-### ✈️ Análise de Atrasos de Voos
+###  Análise de Atrasos de Voos
 Projeto de análise e preparação de dados para investigação e previsão de atrasos de voos.
 
 **Tecnologias:** Python • Pandas • Estatística • Machine Learning
@@ -106,7 +106,7 @@ Projeto de análise e preparação de dados para investigação e previsão de a
 🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/Analise-de-previsao-de-atrasos-de-voo)
 ---
 
-## 🏅 Certificações
+##  Certificações
 
 - **AWS Certified Cloud Practitioner**
 - **Oracle Data Platform 2025 Certified Foundations Associate**
@@ -116,7 +116,7 @@ Projeto de análise e preparação de dados para investigação e previsão de a
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 **Bacharelado em Engenharia de Software**  
 Estácio
@@ -132,7 +132,7 @@ Data Science Academy
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - **LinkedIn:** linkedin.com/in/igorhmarques/
 - **E-mail:** Igorhmsantos@gmail.com
