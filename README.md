@@ -1,157 +1,142 @@
-# Igor Henrique Marques dos Santos
+# Olá, eu sou Igor Marques 👋
 
-## Sobre mim
+### Analista de Dados | SQL • Python • Power BI • ETL
 
-Sou graduando em Engenharia de Software, com foco em Análise de dados, Ciência de dados, Banco de dados, Engenharia de dados e Cloud computing.
-Atualmente estou em transição de carreira para a área de Dados e Tecnologia, unindo minha experiência prática em operações agrícolas, melhoria de processos, análise operacional e tomada de decisão com estudos e projetos voltados para dados, automação, inteligência artificial e computação em nuvem.
-Tenho interesse em desenvolver soluções que transformem dados em informações estratégicas para apoiar decisões, otimizar processos e gerar valor para o negócio.
+Graduando em **Engenharia de Software**, com atuação em projetos de Análise de Dados e desenvolvimento contínuo em Engenharia de Dados.
 
----
+Trabalho com **SQL, Python, Power BI e Excel** para transformar dados brutos em informações úteis para análise e tomada de decisão, passando por etapas de coleta, limpeza, transformação, análise exploratória, modelagem e visualização de dados.
 
-## Formação Acadêmica
-
-**Engenharia de Software**  
-Estácio  
-Previsão de conclusão: 2028
+Também desenvolvo conhecimentos em **ETL, pipelines de dados, bancos de dados, Apache Spark, PySpark, Databricks, Microsoft Fabric e AWS**, ampliando minha compreensão sobre o ciclo completo dos dados.
 
 ---
 
-## Formação Complementar e Certificações
+## 🛠️ Stack principal
 
-- Data Science e Inteligência Artificial — Alura / Oracle
-- Fundamentos de Inteligência Artificial — Oracle
-- Fundamentos de Cloud Computing — Oracle
-- Fundamentos de Dados — Oracle
-- AWS Cloud Practitioner - AWS
-- Escola da Nuvem — Formação AWS
-- Databricks Fundamentals
-- Estudos complementares em Python, SQL, Banco de Dados, Power BI, Machine Learning e Cloud
+### Análise de Dados
+- **SQL**
+- **Python**
+- **Pandas e NumPy**
+- **Power BI**
+- **DAX**
+- **Excel**
+- **Estatística e EDA**
+- **Data Visualization**
 
----
+### Bancos de Dados
+- **SQL Server**
+- **PostgreSQL**
+- **MySQL**
+- **SQLite**
+- **Modelagem de Dados**
 
-## Tecnologias e Ferramentas
+### Engenharia e Processamento de Dados
+- **ETL / ELT**
+- **Data Pipelines**
+- **Apache Spark**
+- **PySpark**
+- **Apache Airflow**
+- **Apache Kafka**
+- **Databricks**
+- **Microsoft Fabric**
+- **Data Warehouse**
+- **Data Lake / Lakehouse**
 
-### Linguagens e Banco de Dados
-
-- Python
-- SQL
-- PostgreSQL
-- SQL Server
-- MySQL
-- SQLite
-
-### Análise de Dados e Ciência de Dados
-
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Análise Exploratória de Dados
-- Limpeza e Tratamento de Dados
-- Estatística Aplicada
-- Machine Learning
-- Visualização de Dados
-- Power BI
-- DAX
-
-### Engenharia de Dados e Cloud
-
-- ETL
-- Pipeline de Dados
-- Modelagem de Dados
-- Git e GitHub
-- Jupyter Notebook
-- Google Colab
-- Docker
-- AWS Cloud
-- Oracle Cloud Infrastructure
+### Cloud e Ferramentas
+- **AWS**
+- **Amazon S3**
+- **AWS Glue**
+- **Amazon RDS**
+- **Docker**
+- **Git e GitHub**
 
 ---
 
-## Principais Projetos
+## 📊 Projetos em destaque
 
-### Call Intelligence
+### 🚜 Agro Leads Orchestartor
+Projeto de dados voltado à orquestração de contatos comerciais em larga escala, aplicando regras de negócio, priorização de leads e organização do fluxo de atendimento.
 
-Projeto de análise e orquestração inteligente de contatos comerciais, simulando uma base com alto volume de produtores, regras de priorização, tentativas de contato, cooldown, WhatsApp e análise de atendimento.
+**Tecnologias:** Python • SQL • SQLite • Pandas • Jupyter Notebook • Parquet
 
-**Tecnologias utilizadas:** Python, Pandas, SQLite, Jupyter Notebook, CSV, Parquet e Matplotlib.
-
-Repositório:  
-[Agro-Leads-Orchestrator](https://github.com/imarques-codes/Agro-Leads-Orchestartor)
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/Agro-Leads-Orchestartor)
 
 ---
 
-### MonitorClima
+### 🛒 Análise de Vendas E-commerce — SQL Server
+Projeto de banco de dados e análise de vendas utilizando dados de e-commerce, contemplando criação e estruturação do banco, ingestão, tratamento e desenvolvimento de consultas analíticas.
 
-Projeto desenvolvido para consumir dados climáticos via API, armazenar informações em banco de dados e gerar análises para acompanhamento climático.
+**Tecnologias:** SQL • SQL Server • Modelagem de Dados • ETL
 
-**Tecnologias utilizadas:** Python, Streamlit, SQLite, API externa e tratamento de dados.
-
-Repositório:  
-[MonitorClima](https://github.com/imarques-codes/MonitorClima)
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/analise-vendas-ecommerce-sql-server)
 
 ---
 
-### Escola Tech — Arquitetura AWS
+### 🔄 Pipeline Modular de Dados
+Pipeline desenvolvido para ingestão, tratamento e carga de dados com arquitetura modular e reutilizável.
 
-Projeto de arquitetura em nuvem para hospedagem de site institucional com alta disponibilidade, escalabilidade automática e controle de custos utilizando serviços da AWS.
+**Tecnologias:** Python • Pandas • PostgreSQL • SQL • ETL
 
-**Serviços abordados:** EC2, Auto Scaling, Application Load Balancer, RDS, S3, CloudFront, Route 53, WAF, CloudWatch, VPC, Subnets e Lambda.
-
-Repositório:  
-[Escola Tech AWS](https://github.com/imarques-codes/AWS-RDS)
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/ingestao-modular)
 
 ---
 
-### Projetos Acadêmicos em C
+### 🌦️ MonitorClima
+Projeto para coleta e processamento de informações climáticas utilizando integração com API, tratamento e armazenamento dos dados.
 
-Projetos desenvolvidos durante a graduação em Engenharia de Software, aplicando lógica de programação, estruturas de dados, filas, pilhas, busca sequencial, árvore binária e alocação dinâmica de memória.
+**Tecnologias:** Python • API • Banco de Dados • Pandas
 
-Repositórios:  
-[Projetos em C](https://github.com/imarques-codes)
-
----
-
-## Objetivo Profissional
-
-Busco minha primeira oportunidade profissional na área de Dados e Tecnologia, com foco em posições como:
-
-- Analista de Dados Júnior
-- Assistente de Dados
-- Estagiário em Dados
-- Analista de BI Júnior
-- Cientista de Dados Júnior
-- Engenheiro de Dados Júnior
-- Analista de Banco de Dados Júnior
-
-Tenho como objetivo aplicar minha capacidade analítica, visão de processos e conhecimento técnico para desenvolver soluções baseadas em dados, automação e inteligência de negócio.
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/MonitorClima)
 
 ---
 
-## Contato
+### ☁️ Arquitetura AWS — AWS RDS
+Projeto de arquitetura em nuvem desenvolvido durante formação AWS, aplicando conceitos de banco de dados, segurança, disponibilidade e serviços de cloud.
 
-LinkedIn:  
-[linkedin.com/in/igorhmarques](https://www.linkedin.com/in/igorhmarques/)
+**Tecnologias:** AWS • RDS • EC2 • S3 • VPC • IAM
 
-GitHub:  
-[github.com/imarques-codes](https://github.com/imarques-codes)
-
-WhatsApp:  
-[Entrar em contato pelo WhatsApp](https://wa.me/5551997104566)
-
-E-mail:  
-[igorhmsantos@gmail.com](mailto:igorhmsantos@gmail.com)
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/AWS-RDS)
 
 ---
 
-## Status
+### ✈️ Análise de Atrasos de Voos
+Projeto de análise e preparação de dados para investigação e previsão de atrasos de voos.
 
-Atualmente estudando e desenvolvendo projetos com foco em:
+**Tecnologias:** Python • Pandas • Estatística • Machine Learning
 
-- Python para análise de dados
-- SQL e bancos relacionais
-- Power BI
-- Machine Learning
-- Engenharia de Dados
-- Cloud Computing com AWS
-- Projetos de portfólio voltados para problemas reais de negócio
+🔗 **Repositório:** [Ver projeto no GitHub](https://github.com/imarques-codes/Analise-de-previsao-de-atrasos-de-voo)
+---
+
+## 🏅 Certificações
+
+- **AWS Certified Cloud Practitioner**
+- **Oracle Data Platform 2025 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Databricks Fundamentals Accreditation**
+- **AWS re/Start Graduate**
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Engenharia de Software**  
+Estácio
+
+**Ciência de Dados — aproximadamente 700h**  
+Alura
+
+**Fundamentos de Engenharia de Dados**  
+Data Science Academy
+
+**Microsoft Power BI para Business Intelligence e Data Science**  
+Data Science Academy
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** linkedin.com/in/igorhmarques/
+- **E-mail:** Igorhmsantos@gmail.com
+
+---
+
+> Transformando dados em informações úteis para compreender problemas, apoiar decisões e gerar valor para o negócio.
